@@ -1,0 +1,7 @@
+c:\users\student\documents\visual studio 2013\Projects\WebServiceDemo\ServiceTest\bin\Debug\ServiceTest.exe.config
+C:\Users\student\Desktop\WebServiceDemo\ServiceTest\bin\Debug\ServiceTest.exe.config
+C:\Users\student\Desktop\WebServiceDemo\ServiceTest\bin\Debug\ServiceTest.exe
+C:\Users\student\Desktop\WebServiceDemo\ServiceTest\bin\Debug\ServiceTest.pdb
+C:\Users\student\Desktop\WebServiceDemo\ServiceTest\obj\Debug\ServiceTest.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\WebServiceDemo\ServiceTest\obj\Debug\ServiceTest.exe
+C:\Users\student\Desktop\WebServiceDemo\ServiceTest\obj\Debug\ServiceTest.pdb

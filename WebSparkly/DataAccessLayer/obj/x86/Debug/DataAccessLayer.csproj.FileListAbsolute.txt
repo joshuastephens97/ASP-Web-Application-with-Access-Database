@@ -1,0 +1,6 @@
+C:\Users\josh\Desktop\ASP COMPLETE\WebSparkly\DataAccessLayer\bin\x86\Debug\DataAccessLayer.dll
+C:\Users\josh\Desktop\ASP COMPLETE\WebSparkly\DataAccessLayer\bin\x86\Debug\DataAccessLayer.pdb
+C:\Users\josh\Desktop\ASP COMPLETE\WebSparkly\DataAccessLayer\obj\x86\Debug\DataAccessLayer.csprojAssemblyReference.cache
+C:\Users\josh\Desktop\ASP COMPLETE\WebSparkly\DataAccessLayer\obj\x86\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\josh\Desktop\ASP COMPLETE\WebSparkly\DataAccessLayer\obj\x86\Debug\DataAccessLayer.dll
+C:\Users\josh\Desktop\ASP COMPLETE\WebSparkly\DataAccessLayer\obj\x86\Debug\DataAccessLayer.pdb
